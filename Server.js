@@ -1,4 +1,4 @@
-// server.js
+
 
 // 1. CHAVE SECRETA: Lê a chave GEMINI_API_KEY do seu arquivo .env
 require('dotenv').config(); 
