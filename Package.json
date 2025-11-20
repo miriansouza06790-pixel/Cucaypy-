@@ -1,5 +1,5 @@
 {
-  "name": "cucapy-backend",
+  "name": "cucaypy-backend",
   "version": "1.0.0",
   "description": "Backend para o projeto CucaPy",
   "main": "server.js",
